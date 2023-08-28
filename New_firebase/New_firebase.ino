@@ -7,7 +7,7 @@
 #define WIFI_PASSWORD "sentiatik"
 #define FIREBASE_HOST "https://smartmeter2-85065-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "0ea0a18b38d179a9fae868041eac00374e3e576f"
-
+ 
 // Initialize Firebase ESP8266 Client
 FirebaseData firebaseData;
 FirebaseJson json;
